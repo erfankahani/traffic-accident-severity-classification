@@ -1,0 +1,30 @@
+# ---- Word temporary / lock files ----
+~$*
+
+# ---- Duplicates and old versions in the main folder ----
+# (the final reports are in REPOTRS/)
+/Doc2.docx
+/DM_PROJECT_REPORT.docx
+/*.pdf
+/Untitled-1.ipynb
+
+# ---- Generated data (re-created by running DM_PROJECT_NOTEBOOK.ipynb) ----
+Data Export*/
+
+# ---- Archives (the extracted SOURCE folder is kept) ----
+*.rar
+*.zip
+
+# ---- Jupyter / Python ----
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# ---- OS / editor files ----
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
