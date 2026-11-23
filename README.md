@@ -82,9 +82,7 @@ The most important features across the tree-based models were **f5** (distance),
 ├── requirements.txt
 ├── REPOTRS/
 │   ├── DM_PROJECT_REPORT.pdf   # Full project report (also as .docx)
-│   ├── Project_Description_DM4042_Update1.pdf
-│   └── گزارش پیشرفت پروژه.pdf   # Phase 2 progress report (Persian)
-└── SOURCE/                     # Earlier AI course project (heart disease) used as a methodological reference
+reference
 ```
 
 ---
@@ -109,7 +107,7 @@ The generated `Data Export*` folders are not in the repository because they are 
 | Member | Contributions |
 |---|---|
 | **Seyed Erfan Kahani** | Data cleaning and preprocessing, feature engineering, Decision Tree / Random Forest / XGBoost models, hyperparameter tuning, evaluation and the related report sections |
-| **Maryam Safaei** | Introduction and abstract, exploratory data analysis, ANN model and evaluation, Phase 2 progress report |
+| **Maryam Safaei** | Introduction and abstract, exploratory data analysis,Phase 2 progress report |
 
 Both members reviewed the final results and prepared the final report together.
 
